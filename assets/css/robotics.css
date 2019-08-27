@@ -662,6 +662,28 @@ footer ul li ul {
 /*        transform: translateX(-100px);*/
     }
     
+    .container .pres {
+    background: url("/wsuRobotics/res/nnamdi_pic.jpg") no-repeat;
+    background-position: bottom;
+    background-size: 200% 100%;
+    height: 250px; 
+}
+.container .vp {
+    background: url("/wsuRobotics/res/llyod_pic.jpg") no-repeat center;
+    background-size: 100% 100%;
+    height: 250px; 
+}
+.container .treasurer {
+    background: url("/wsuRobotics/res/josh_b.jpg") no-repeat center;
+    background-size: 125% 100%;
+    height: 250px; 
+}
+.container .software {
+    background: url("https://github.com/Killaskt/wsuRobotics/blob/master/res/austin_pic.jpg?raw=true") no-repeat top;
+    background-size: 125% 100%;
+    height: 250px; 
+}
+    
     .contact-form {
         grid-area: contact-form;
     }
