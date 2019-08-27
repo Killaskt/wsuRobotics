@@ -23,7 +23,7 @@ body {
         "footer" 100px / 1fr;
 /*    overflow:hidden;*/
     font-family: 'Raleway', sans-serif;
-    font-size: 20px;
+    font-size: 50px;
     grid-row-gap: 0;
 /*    overflow:hidden;*/
 }
@@ -47,7 +47,7 @@ header {
 }
 
 .logo_cont img {
-    width: 25px;
+    width: 40px;
     margin-right: 5px;
 /*    background: #ffd95c;*/
     color: green;
