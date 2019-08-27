@@ -33,8 +33,8 @@ header {
     display: grid;
 /*    background: #093f39;*/
     grid-template:
-        "logo" .5fr
-        "media" 2fr / 1fr;
+        "logo" 40px
+        "media" 1fr / 1fr;
     overflow:hidden;
     z-index: 0;
 }
