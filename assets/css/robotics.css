@@ -7,7 +7,7 @@ html {
     padding: 0;
     box-sizing: border-box;
     overflow: visible;
-   transition: all 100ms ease-in;
+   transition: all 500ms ease-in;
 }
 
 body {
