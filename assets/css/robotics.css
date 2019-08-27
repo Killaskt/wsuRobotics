@@ -18,7 +18,7 @@ body {
         "display" minmax(70vh,auto)
         "navi" auto
         "hero" min-content
-        "eboard" minmax(100vh,auto)
+        "eboard" minmax(60vh,auto)
         "contact" auto
         "footer" 100px / 1fr;
 /*    overflow:hidden;*/
@@ -366,7 +366,7 @@ nav ul li:hover {
     background: url('https://ak7.picdn.net/shutterstock/videos/23666167/thumb/10.jpg') no-repeat;
     background-position: top center;
     background-size: cover;
-    height: 250px;
+    height: 100%;
     border-radius: 5px;
     display: flex;
     flex-direction: row;
@@ -404,7 +404,7 @@ nav ul li:hover {
     background: url("/wsuRobotics/res/nnamdi_pic.jpg") no-repeat;
     background-position: bottom;
     background-size: 200% 100%;
-    height: 250px;
+/*     height: 250px; */
 /*    height:180px;*/
 /*    width:200px;*/
 /*    background-size: contain;*/
@@ -412,17 +412,17 @@ nav ul li:hover {
 .container .vp {
     background: url("/wsuRobotics/res/llyod_pic.jpg") no-repeat center;
     background-size: 100% 100%;
-    height: 250px;
+/*     height: 250px; */
 }
 .container .treasurer {
     background: url("/wsuRobotics/res/josh_b.jpg") no-repeat center;
     background-size: 125% 100%;
-    height: 250px;
+/*     height: 250px; */
 }
 .container .software {
     background: url("https://github.com/Killaskt/wsuRobotics/blob/master/res/austin_pic.jpg?raw=true") no-repeat top;
     background-size: 125% 100%;
-    height: 250px;
+/*     height: 250px; */
 /*    position: relative;*/
 /*    top: -18px;*/
 /*    right: ;*/
